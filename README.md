@@ -1,1 +1,1 @@
-# terraform
+# This repository hosts terraform code for which used mainly for Azure Infrastructure deployments.
